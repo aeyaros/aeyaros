@@ -1,4 +1,6 @@
 ---
 
 ### Welcome!
-There are some projects here, although not too much is public. Also, I'm currently working on something awesome which I hope to share soon...
+I realize this profile is fairly sparse... but the contribution history looks like a tiled wall in a restroom, so you know I've been busy.
+
+Please check out my latest project, [LisaGUI](https://lisagui.com).
